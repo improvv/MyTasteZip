@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 배경 색상 설정 (예: 흰색) <solid android:color="#FFFFFF" />-->
+
+    <!-- 외곽선 두께 설정 -->
+    <stroke
+        android:color="#222222"
+        android:width="0.5dp" />  <!-- 외곽선 두께 (예: 1dp) -->
+
+    <!-- 모서리 둥글게 설정 -->
+    <corners android:radius="4dp" /> <!-- 모서리 둥근 정도 -->
+</shape>
